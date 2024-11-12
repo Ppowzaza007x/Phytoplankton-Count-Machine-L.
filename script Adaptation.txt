@@ -1,0 +1,12 @@
+Script Adaptation
+- Customize the load_data() function according to your dataset format. For example:
+
+def load_data():
+    # Custom function to load images and labels (counts)
+    # Returns X as images and y as counts
+
+
+- Preprocessing New Images: Write a preprocessing function to handle new images for predictions:
+
+def preprocess_new_image(image_path):
+    # Load, resize, normalize image for prediction
