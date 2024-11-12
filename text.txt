@@ -1,0 +1,6 @@
+requirements need
+python 3.6+
+TensorFlow
+NumPy
+Scikit-Learn
+Pillow (Optional)
